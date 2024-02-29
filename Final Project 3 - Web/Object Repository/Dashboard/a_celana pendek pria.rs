@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_celana pendek pria</name>
+   <tag></tag>
+   <elementGuidId>22d21d80-3e25-4ad2-9067-95d4f56ac643</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='klevuSearchingArea']/div/header/section[2]/div/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a.klevu-track-click</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>96aefb7c-deb9-476e-8592-98aa8c6b0e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>665eb968-a74e-4fe7-b029-2e5b588f0d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.matahari.com/catalogsearch/result/?q=celana%20pendek%20pria</value>
+      <webElementGuid>1503d04f-be04-46f1-ae13-8e810e801725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-content</name>
+      <type>Main</type>
+      <value>celana pendek pria</value>
+      <webElementGuid>0247a449-3a1c-489a-837c-2224c31fad22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>klevu-track-click</value>
+      <webElementGuid>1721d995-b81a-4f20-a7c2-2ed84e33a5b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> celana pendek pria </value>
+      <webElementGuid>1c5b7e81-a79c-472b-adf5-159fcd04da0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;klevuSearchingArea&quot;)/div[1]/header[1]/section[2]/div[@class=&quot;klevuSuggestionsBlock&quot;]/div[@class=&quot;klevuAutoSuggestionsWrap klevuAutosuggestions&quot;]/ul[1]/li[2]/a[@class=&quot;klevu-track-click&quot;]</value>
+      <webElementGuid>17bfc77c-9b49-46de-a879-3e2fa641723b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='klevuSearchingArea']/div/header/section[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>53353b44-a214-4376-85fc-38dd35a078a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pendek'])[1]/following::a[1]</value>
+      <webElementGuid>36805d40-92ff-4f69-b560-d7b1309a2ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='celana'])[1]/following::a[1]</value>
+      <webElementGuid>30cbb9e9-26ff-4f31-891a-5f124362d2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='pria']/parent::*</value>
+      <webElementGuid>5e928bf1-f199-4d54-8d4c-630a81d4ae30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.matahari.com/catalogsearch/result/?q=celana%20pendek%20pria')]</value>
+      <webElementGuid>ac870607-9157-4005-8ec1-8e3e8a709571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>7960ae04-7915-4b88-a8ce-ae97277ef427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.matahari.com/catalogsearch/result/?q=celana%20pendek%20pria' and (text() = ' celana pendek pria ' or . = ' celana pendek pria ')]</value>
+      <webElementGuid>b48b13ab-7ec9-46a1-886e-d16db2192738</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
